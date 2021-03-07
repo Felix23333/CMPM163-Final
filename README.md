@@ -24,6 +24,8 @@ Felix Li - Unity scene building, costume particle systems.
 Jiahui Li - 3D sword modeling, texture UV mapping.
 
 Cited Material: Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack-day-night-32236 
+
 island ice texture: https://assetstore.unity.com/publishers/25975 
+
 Partical System Path Plugin: https://assetstore.unity.com/publishers/12
 
