@@ -1,7 +1,7 @@
 # CMPM163-Final
 CMPM163-Final Sealed Element sword
 
-CMPM163 Sealed element sword Group member: Felix Li, Daniel Zhong, Jiahui Li
+Group member: Felix Li, Daniel Zhong, Jiahui Li
 
 "Why?":
 
