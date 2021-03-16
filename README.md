@@ -1,7 +1,7 @@
 # CMPM163-Final
 CMPM163-Final Sealed Element sword
 
-CMPM163 Sealed element sword Group member: Felix Li, Daniel Zhong, Jiahui Li
+Group member: Felix Li, Daniel Zhong, Jiahui Li
 
 "Why?":
 
@@ -9,7 +9,7 @@ I and my teammates are gamers and really like RPG games, We really want to make 
 
 "How?":
 
-In this project, our group will render a game theme that contains a sealed water element sword. We will first render a water-theme background. To render a background, we will use texture mapping & build some basic object models, also with shader texture animation (with waters). Also using unity to create a scene that in the night and use moonlight, also use unity to create the terrain. (Less focus of the project, 20-30% of the work).
+In this project, our group will render a game theme that contains a sealed ice element sword. We will first render a ice-theme background. To render a background, we will use texture mapping & build some basic object models, also with shader texture animation (with waters). Also using unity to create a scene that in the night and use moonlight, also use unity to create the terrain. (Less focus of the project, 20-30% of the work).
 
 We will mainly focus on rendering the water element sword. We will use 3d modeling to build the object, and also use UV texture mapping to attach the texture to the sword. Also, use the unity shader lab to animate the sword texture. We will also use unity particle systems effects to let the sword become more beautiful. We will make the costume particle path and particle texture. (The main focus of the project, 70-80% of the work).
 
@@ -24,6 +24,8 @@ Felix Li - Unity scene building, costume particle systems.
 Jiahui Li - 3D sword modeling, texture UV mapping.
 
 Cited Material: Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack-day-night-32236 
+
 island ice texture: https://assetstore.unity.com/publishers/25975 
+
 Partical System Path Plugin: https://assetstore.unity.com/publishers/12
 
